@@ -10,4 +10,10 @@ Este App mostra informações meteorologia de uma determinada localização (Cid
 - HTML5
 - CSS3
 - Javascript
+  
+ ### Nota
+  
+ <p>
+   Utilizou - se uma API <small>(OpenWeather)</small> para retornar as informações meteorologicas de cada cidade.
+  
 
