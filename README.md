@@ -1,4 +1,4 @@
-## 📚 Sobre
+## 📚 weather-app
 
 <p>
 Criado pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, este é um curso livre para aprendizado da estilização de páginas web.
